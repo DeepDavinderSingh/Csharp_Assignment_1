@@ -18,7 +18,8 @@ class Program
 
         while (i <= tableUpto)
         {
-            Console.WriteLine(tableOf + "x" + i + "=" + tableOf * i);
+          //  Console.WriteLine(tableOf + "x" + i + "=" + tableOf * i);
+            Console.WriteLine("{0} x {1} = {2}", tableOf, i, tableOf * i  );
             i++;
         }
     }
