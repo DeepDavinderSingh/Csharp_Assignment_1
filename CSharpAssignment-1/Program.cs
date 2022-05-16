@@ -4,26 +4,20 @@ class program
 { 
     public static void Main()
     {
+
         Console.WriteLine("Enter the number:");
         int _Number = Convert.ToInt32(Console.ReadLine());
 
         Console.WriteLine("Enter the width:");
         int _Width = Convert.ToInt32(Console.ReadLine());
 
-        if (_Width!= 0)
+        for (int i = 1; i <= _Width; i++)
         {
-            for (int i = 1; i <= _Width; i++)
+            for (int j = _Width; j >= i; j--)
             {
-                for (int j = _Width; j >= i; j--)
-                {
-                    Console.Write(_Number);
-                }
-                Console.WriteLine();
+                Console.Write(_Number);
             }
-        }
-        else 
-        {
-            Console.WriteLine("Please enter valid value");
+            Console.WriteLine();
         }
     }
 }

@@ -1,2 +1,25 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+class Program
+{
+    public static void Main()
+    {
+        //To print table of any number:
+
+        int tableOf;
+        Console.WriteLine("Print Table of:");
+        tableOf = Convert.ToInt32(Console.ReadLine());
+
+        int tableUpto;
+        Console.WriteLine("Print Table Upto:");
+        tableUpto = Convert.ToInt32(Console.ReadLine());
+
+        int i = 1;
+
+        while (i <= tableUpto)
+        {
+            Console.WriteLine(tableOf + "x" + i + "=" + tableOf * i);
+            i++;
+        }
+    }
+}
