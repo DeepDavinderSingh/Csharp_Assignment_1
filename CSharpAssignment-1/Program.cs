@@ -5,19 +5,25 @@ class program
     public static void Main()
     {
         Console.WriteLine("Enter the number:");
-        int n = Convert.ToInt32(Console.ReadLine());
+        int _Number = Convert.ToInt32(Console.ReadLine());
 
         Console.WriteLine("Enter the width:");
-        int width = Convert.ToInt32(Console.ReadLine());
+        int _Width = Convert.ToInt32(Console.ReadLine());
 
-        for (int i = 1; i <= width; i++)
+        if (_Width!= 0)
         {
-            for (int j = width; j >= i; j--)
+            for (int i = 1; i <= _Width; i++)
             {
-                Console.Write(n);
+                for (int j = _Width; j >= i; j--)
+                {
+                    Console.Write(_Number);
+                }
+                Console.WriteLine();
             }
-            Console.WriteLine();
+        }
+        else 
+        {
+            Console.WriteLine("Please enter valid value");
         }
     }
-
 }
