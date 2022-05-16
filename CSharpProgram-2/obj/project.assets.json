@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\L&G\\source\\repos\\DeepDavinderSingh\\Csharp_Assignment_1\\CSharpAssignment-1\\CSharpPrgram-1.csproj",
-      "projectName": "CSharpPrgram-1",
-      "projectPath": "C:\\Users\\L&G\\source\\repos\\DeepDavinderSingh\\Csharp_Assignment_1\\CSharpAssignment-1\\CSharpPrgram-1.csproj",
+      "projectUniqueName": "C:\\Users\\L&G\\source\\repos\\DeepDavinderSingh\\Csharp_Assignment_1\\CSharpProgram-2\\CSharpProgram-2.csproj",
+      "projectName": "CSharpProgram-2",
+      "projectPath": "C:\\Users\\L&G\\source\\repos\\DeepDavinderSingh\\Csharp_Assignment_1\\CSharpProgram-2\\CSharpProgram-2.csproj",
       "packagesPath": "C:\\Users\\L&G\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\L&G\\source\\repos\\DeepDavinderSingh\\Csharp_Assignment_1\\CSharpAssignment-1\\obj\\",
+      "outputPath": "C:\\Users\\L&G\\source\\repos\\DeepDavinderSingh\\Csharp_Assignment_1\\CSharpProgram-2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\L&G\\AppData\\Roaming\\NuGet\\NuGet.Config",
