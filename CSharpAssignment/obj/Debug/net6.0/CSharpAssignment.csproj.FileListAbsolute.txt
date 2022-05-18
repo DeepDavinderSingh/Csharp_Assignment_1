@@ -1,0 +1,15 @@
+C:\Users\L&G\source\repos\DeepDavinderSingh\Csharp_Assignment_1\CSharpAssignment\bin\Debug\net6.0\CSharpAssignment.exe
+C:\Users\L&G\source\repos\DeepDavinderSingh\Csharp_Assignment_1\CSharpAssignment\bin\Debug\net6.0\CSharpAssignment.deps.json
+C:\Users\L&G\source\repos\DeepDavinderSingh\Csharp_Assignment_1\CSharpAssignment\bin\Debug\net6.0\CSharpAssignment.runtimeconfig.json
+C:\Users\L&G\source\repos\DeepDavinderSingh\Csharp_Assignment_1\CSharpAssignment\bin\Debug\net6.0\CSharpAssignment.dll
+C:\Users\L&G\source\repos\DeepDavinderSingh\Csharp_Assignment_1\CSharpAssignment\bin\Debug\net6.0\CSharpAssignment.pdb
+C:\Users\L&G\source\repos\DeepDavinderSingh\Csharp_Assignment_1\CSharpAssignment\obj\Debug\net6.0\CSharpAssignment.csproj.AssemblyReference.cache
+C:\Users\L&G\source\repos\DeepDavinderSingh\Csharp_Assignment_1\CSharpAssignment\obj\Debug\net6.0\CSharpAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L&G\source\repos\DeepDavinderSingh\Csharp_Assignment_1\CSharpAssignment\obj\Debug\net6.0\CSharpAssignment.AssemblyInfoInputs.cache
+C:\Users\L&G\source\repos\DeepDavinderSingh\Csharp_Assignment_1\CSharpAssignment\obj\Debug\net6.0\CSharpAssignment.AssemblyInfo.cs
+C:\Users\L&G\source\repos\DeepDavinderSingh\Csharp_Assignment_1\CSharpAssignment\obj\Debug\net6.0\CSharpAssignment.csproj.CoreCompileInputs.cache
+C:\Users\L&G\source\repos\DeepDavinderSingh\Csharp_Assignment_1\CSharpAssignment\obj\Debug\net6.0\CSharpAssignment.dll
+C:\Users\L&G\source\repos\DeepDavinderSingh\Csharp_Assignment_1\CSharpAssignment\obj\Debug\net6.0\refint\CSharpAssignment.dll
+C:\Users\L&G\source\repos\DeepDavinderSingh\Csharp_Assignment_1\CSharpAssignment\obj\Debug\net6.0\CSharpAssignment.pdb
+C:\Users\L&G\source\repos\DeepDavinderSingh\Csharp_Assignment_1\CSharpAssignment\obj\Debug\net6.0\CSharpAssignment.genruntimeconfig.cache
+C:\Users\L&G\source\repos\DeepDavinderSingh\Csharp_Assignment_1\CSharpAssignment\obj\Debug\net6.0\ref\CSharpAssignment.dll
